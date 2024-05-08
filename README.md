@@ -48,8 +48,12 @@ def max_marks(list1):
 ## Output:
 i)	# To find the maximum of marks using the list method sort.
 ![image](https://github.com/Sheetalshee/FindMaximum/assets/144979107/68a38bd6-eb29-4d65-b62d-f1a8dbd0eea3)
+
+
 ii)	# To find the maximum marks using the list method max().
 ![image](https://github.com/Sheetalshee/FindMaximum/assets/144979107/2508e821-5fda-437d-a1a6-9a02104b3824)
+
+
 iii) # To find the maximum marks without using builtin functions.
 ![image](https://github.com/Sheetalshee/FindMaximum/assets/144979107/3b9e5bd3-ecf0-4c09-ab87-a4dbd5dbf284)
 
